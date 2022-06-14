@@ -48,6 +48,10 @@ header {
   align-items: center;
 }
 
+.div-log img {
+  width: 64px;
+}
+
 .logo {
   color: #e6e6e6;
   padding: 20px 0;
