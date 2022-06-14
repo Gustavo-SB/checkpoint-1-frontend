@@ -15,10 +15,14 @@
   }
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   background: #121214;
-  color: #e6e6e6
+  color: #e6e6e6;
 }
 
 h1, h2, h3, span, strong {
