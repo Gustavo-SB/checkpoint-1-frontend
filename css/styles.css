@@ -217,6 +217,7 @@ footer {
   transform: translateY(10px);
 
   transition: filter 0.2s;
+  transition: transform 0.2s;
 }
 
 .icon-button:hover {
